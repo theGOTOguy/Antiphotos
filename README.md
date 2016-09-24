@@ -41,7 +41,9 @@ You can find some appropriate images to experiment with [in Google Drive here.](
 First, unzip the samples.zip file in a subdirectory named "examples":
 
 `mkdir examples`
+
 `cd examples`
+
 `unzip samples.zip`
 
 Next, you'll need to convert the ARW files into TIFF files.
